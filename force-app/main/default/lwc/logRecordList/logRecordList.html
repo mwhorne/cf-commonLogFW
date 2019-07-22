@@ -1,0 +1,37 @@
+<template>
+	<lightning-card title="Log Records" icon-name="utility:description">
+		<div class="slds-card__body_inner">
+			<!-- Start log record list -->
+			<template if:true={logRecords.data}>
+                <lightning-input type="search"
+                    onchange={handleSearchTermChange}
+                    variant="label-hidden"
+                    class="slds-m-bottom_small"
+                    label="Search"
+                    placeholder="Search for Log Records using log Title as filter..."
+                    value={searchTerm}>
+                </lightning-input>
+				<lightning-layout multiple-rows="true" pull-to-boundary="small" onlogrecordview={handleLogRecordView}>
+					<template for:each={logRecords.data} for:item="logRecord">
+						<lightning-layout-item key={logRecord.Id} size="3" class="slds-p-around_x-small">
+                            <c-log-record-tile logrecord={logRecord}></c-log-record-tile>
+                        </lightning-layout-item>    
+					</template>
+                </lightning-layout>
+                <!-- No logRecords found -->
+                <template if:false={hasResults}>
+                    <div class="slds-align_absolute-center slds-m-vertical_small">
+                        This is possibly disturbing, we did not find results...
+                    </div>
+                </template>
+			</template>
+			<!-- End logRecord list -->
+			<!-- Data failed to load -->
+			<template if:true={logRecords.error}>
+				<div class="slds-text-color_error">
+					An error occurred while loading the logRecord list
+				</div>
+			</template>
+		</div>
+	</lightning-card>
+</template>

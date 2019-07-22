@@ -1,0 +1,19 @@
+<template>
+	<lightning-card title={capitalizedGreeting}>
+        <template if:true={user.data}>
+            <div class="slds-m-around_medium">
+                <p>Name: {name}</p>
+                <p>Id: {userId}</p>
+            </div>
+        </template>
+		<div class="slds-m-around_medium">
+            
+            <p>Today is {currentDate}</p>
+            <lightning-input label="Name" value={greeting} onchange={handleGreetingChange}></lightning-input>
+		</div>
+
+        <template if:true={user.error}>
+            
+        </template>
+	</lightning-card>
+</template>

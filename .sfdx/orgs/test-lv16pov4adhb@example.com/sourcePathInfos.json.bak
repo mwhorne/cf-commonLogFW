@@ -1,0 +1,1885 @@
+[
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561578815726,
+            "changeTime": 1561578815726,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561578815737,
+            "changeTime": 1561578815737,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562007619555,
+            "changeTime": 1562007619555,
+            "contentHash": "715ba282a1b2f472a266f8c6c81e9e12a24dce37",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561645685783,
+            "changeTime": 1561645685783,
+            "contentHash": "24e23495b87059df7911ea081e90a8a7537f1aaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogRecordViewer",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogRecordViewer",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562007619254,
+            "changeTime": 1561642495164,
+            "contentHash": "7de658989903016ef77a026325ddc93821b2ff47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogRecordViewer\\LogRecordViewer.cmp-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogRecordViewer\\LogRecordViewer.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1560956179909,
+            "changeTime": 1561642494771,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogRecordViewer\\LogRecordViewer.cmp",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogRecordViewer\\LogRecordViewer.cmp",
+            "isDirectory": false,
+            "size": 772,
+            "modifiedTime": 1562007619437,
+            "changeTime": 1562007619437,
+            "contentHash": "0d23b970500519b9880ae2434a65de9560661229",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogRecordViewer\\LogRecordViewerController.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogRecordViewer\\LogRecordViewerController.js",
+            "isDirectory": false,
+            "size": 6,
+            "modifiedTime": 1560956180450,
+            "changeTime": 1561642495362,
+            "contentHash": "7002d3e8bc746f920e6d752c0380ac830f8ae436",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561642504556,
+            "changeTime": 1561642504556,
+            "contentHash": "72b2679906564a85aebb14e765bb3ee61d672ddf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewer.cmp-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewer.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1560956181430,
+            "changeTime": 1561642503712,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewer.cmp",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewer.cmp",
+            "isDirectory": false,
+            "size": 520,
+            "modifiedTime": 1560956181693,
+            "changeTime": 1561642503973,
+            "contentHash": "7b82ad67791ae78f49522f7b42ade61c08b862c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewer.css",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewer.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1560956181977,
+            "changeTime": 1561642504218,
+            "contentHash": "579b87c7a919b954ff62f1f28c2b20be3610eace",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewerController.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewerController.js",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1560956182218,
+            "changeTime": 1561642504486,
+            "contentHash": "6abcfb49fd5dcffc5586a0969093e9353e3374ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewerHelper.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogViewer\\LogViewerHelper.js",
+            "isDirectory": false,
+            "size": 1500,
+            "modifiedTime": 1562959102636,
+            "changeTime": 1562959102636,
+            "contentHash": "9b33cb867ee23ed7986d8d8d891152bc6f4fe5e2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562869553038,
+            "changeTime": 1562869553038,
+            "contentHash": "3955855d7165a7d4e962bb55465a334cdcc701ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561579136726,
+            "changeTime": 1561579136726,
+            "contentHash": "fa026a90ea7310e02cde34b618c1e8527ec3f1b8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561582122191,
+            "changeTime": 1561582122191,
+            "contentHash": "f770122feb33bf2183c7db5c0857acd119ab0bbe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\listViews",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561582122191,
+            "changeTime": 1561582122191,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1560956174279,
+            "changeTime": 1560956174279,
+            "contentHash": "bdec4c30473e41dc704a92b5b1fab76c032cf7c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561743724238,
+            "changeTime": 1561743724238,
+            "contentHash": "c8616697773b449047bd7aefec07325f4c81b373",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Class_Name__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Class_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1561050553650,
+            "changeTime": 1561579067602,
+            "contentHash": "819aff8859440eddf8810ae105adfed57bcacc78",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Error_Line__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Error_Line__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1561050553860,
+            "changeTime": 1561579067871,
+            "contentHash": "5f26cf4b1b3eef099381affe48e6becab5b486cc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Error_Type__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Error_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1561050554065,
+            "changeTime": 1561579068128,
+            "contentHash": "e3d8d4569ce11520c48476dcaedd97a65e3f00e3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Gov_Limits_in_Execution_Context__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Gov_Limits_in_Execution_Context__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 374,
+            "modifiedTime": 1561128411877,
+            "changeTime": 1561579068651,
+            "contentHash": "6769e4b9d7b9a0a85e13f7154b93143c8ee898d6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Log_Time__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Log_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1561050554700,
+            "changeTime": 1561579068911,
+            "contentHash": "e381ff019668d36c2f71aec43af6f7f1bc663a3e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Method_Name__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Method_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 320,
+            "modifiedTime": 1561050554901,
+            "changeTime": 1561579069172,
+            "contentHash": "1dcc83aeee71bc518a71fc46398f0223f8275d7c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Stack_Trace__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Stack_Trace__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1561050555103,
+            "changeTime": 1561579069424,
+            "contentHash": "765a0815d5d6f1b1ba2dfd4631d3bfdd0d4a3856",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Data__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Data__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 343,
+            "modifiedTime": 1560956173328,
+            "changeTime": 1561581016520,
+            "contentHash": "c34e6be0ee0f16417fff5e7e5c759f80424abc58",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Reason__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Reason__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1560956173627,
+            "changeTime": 1561582023734,
+            "contentHash": "5d990bc00d1136c510b9fcb606964112413a6be7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\SOQL__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\SOQL__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 382,
+            "modifiedTime": 1560956173846,
+            "changeTime": 1561582024028,
+            "contentHash": "f719c96ed574f9a7dd315bd1fcc818490a0bffab",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1560956174072,
+            "changeTime": 1561582024302,
+            "contentHash": "9d3f0764768ea02d08cb891b07fb756cadc3271b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\DML__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\DML__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 380,
+            "modifiedTime": 1560956173058,
+            "changeTime": 1561582024604,
+            "contentHash": "cc68116ecb837057a5a31b38eda38183c523bf51",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\CF_LogRecord__c.object-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\CF_LogRecord__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2498,
+            "modifiedTime": 1561645582927,
+            "changeTime": 1561645582927,
+            "contentHash": "0169021d28d76a5f9931444365ed7a49364ab562",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561582358170,
+            "changeTime": 1561582358170,
+            "contentHash": "0f4962b4e1eb8606d1b03e99986e579ae1315eb1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561743637024,
+            "changeTime": 1561743637024,
+            "contentHash": "596087d33c067bc2c1b46aa2a3aa0a3360b548c2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Class_Name__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Class_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1561050556169,
+            "changeTime": 1561579070285,
+            "contentHash": "8d4378220bc1c9c5099ef9f3f1994190f130f3eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Error_Line__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Error_Line__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 492,
+            "modifiedTime": 1561050556365,
+            "changeTime": 1561579070554,
+            "contentHash": "298b5e02d167d04043e7a0b1de6a96636349350b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Error_Type__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Error_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1561050556566,
+            "changeTime": 1561579070819,
+            "contentHash": "dab1bba582be7870e154f90261f9c8e7bc913062",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Gov_Limits_in_Execution_Context__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Gov_Limits_in_Execution_Context__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 493,
+            "modifiedTime": 1561135212070,
+            "changeTime": 1561579071377,
+            "contentHash": "62f7aaa62e85478e3913dafe0c00837dbe975c02",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Log_Time__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Log_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 412,
+            "modifiedTime": 1561050557269,
+            "changeTime": 1561579071648,
+            "contentHash": "8d6c032d191a5ec43699a48a1e60cc68f9448d60",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Method_Name__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Method_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 466,
+            "modifiedTime": 1561050557534,
+            "changeTime": 1561579071917,
+            "contentHash": "0e0f8d1d683f496150e4f0bf3ce24bdf710e1649",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Stack_Trace__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Stack_Trace__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 453,
+            "modifiedTime": 1561050557711,
+            "changeTime": 1561579072166,
+            "contentHash": "bb01ab6ee2a16fba3e1b4c1fb9323f6a83202994",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Log_Name__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Log_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 460,
+            "modifiedTime": 1561054636478,
+            "changeTime": 1561579072696,
+            "contentHash": "2d647bd5ab83d022fd6bf290c3745aae7c64c5bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\DML__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\DML__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 478,
+            "modifiedTime": 1560956174959,
+            "changeTime": 1561582200541,
+            "contentHash": "327ee25b990c9deeee38574238410be2fd7eac3c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\SOQL__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\SOQL__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 480,
+            "modifiedTime": 1560956175418,
+            "changeTime": 1561582201010,
+            "contentHash": "bd01d70eba0e9bb3828f5c25cdc9246c0b81d7a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 454,
+            "modifiedTime": 1560956175740,
+            "changeTime": 1561582201406,
+            "contentHash": "2b5b5f50d6dabdebec540083ea62066c2ac6093b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Data__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Data__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1560956175185,
+            "changeTime": 1561582201858,
+            "contentHash": "bd5fddfcc40a39d2e96df3ff639984201efe3d33",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\CF_LogEvent__e.object-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\CF_LogEvent__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1561637642701,
+            "changeTime": 1561637642701,
+            "contentHash": "b9f3a5bae3e3722ec4fd8410ded7d970f0c2ecb8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561582492872,
+            "changeTime": 1561582492872,
+            "contentHash": "98f553e37d4dc562bc29f73cbb89dad9b70b2e55",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\applications\\CF_Logger.app-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\applications\\CF_Logger.app-meta.xml",
+            "isDirectory": false,
+            "size": 699,
+            "modifiedTime": 1562879191328,
+            "changeTime": 1562879191328,
+            "contentHash": "1c22b74057b5f22870692e6f15386f41ad2816e4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561638265067,
+            "changeTime": 1561638265067,
+            "contentHash": "3f215369b246b7825ad755c3f1851bbdab66fc78",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\permissionsets\\CF_Logger.permissionset-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\permissionsets\\CF_Logger.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 2263,
+            "modifiedTime": 1562007622411,
+            "changeTime": 1562007622411,
+            "contentHash": "586123b5ce26f42a6c2601605a5745556e3f2e7f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562957697817,
+            "changeTime": 1562782436057,
+            "contentHash": "84cde55ea094d8a54fdaecc817b113154a756762",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\CF_Logger.cls",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\CF_Logger.cls",
+            "isDirectory": false,
+            "size": 8136,
+            "modifiedTime": 1562957697993,
+            "changeTime": 1562957697993,
+            "contentHash": "d20e80e314c779b4d2267b5f5a3c3ab045f42c99",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\CF_Logger.cls-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\CF_Logger.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1561052968971,
+            "changeTime": 1561640388482,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562957698435,
+            "changeTime": 1561640710581,
+            "contentHash": "af5954ef9f747cfd5aec53c48b9d3afa4f75c012",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\triggers\\CF_LogEventTrigger.trigger",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\triggers\\CF_LogEventTrigger.trigger",
+            "isDirectory": false,
+            "size": 1037,
+            "modifiedTime": 1562957698563,
+            "changeTime": 1562957698563,
+            "contentHash": "25b3a52795bb6bdbcc0c0842543275de55782de8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\triggers\\CF_LogEventTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\triggers\\CF_LogEventTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1561052969414,
+            "changeTime": 1561640710581,
+            "contentHash": "5d8d17e9ccc908122d14250ad244762799083212",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562007620512,
+            "changeTime": 1562007620512,
+            "contentHash": "ca87f913d6381730a17f2f796c8c56d4979a3d4d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\tabs\\StreamingComponent.tab-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\tabs\\StreamingComponent.tab-meta.xml",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1561644955315,
+            "changeTime": 1561644955315,
+            "contentHash": "29a04d0a136daaf5450c3bd88e671fce9d67b556",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\tabs\\CF_LogRecord__c.tab-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\tabs\\CF_LogRecord__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1561644966383,
+            "changeTime": 1561644966383,
+            "contentHash": "c57b210f1f1651d38b3f4ddbb4e17519fd77f049",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562773101563,
+            "changeTime": 1562773101563,
+            "contentHash": "158e4bb74df08ac7e4eaf35b2b9a31ae4e3ba245",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages\\CF_Logger_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages\\CF_Logger_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1684,
+            "modifiedTime": 1561646740850,
+            "changeTime": 1561646740850,
+            "contentHash": "0c8440d341657f2c5f220defc7826c4c87237bfd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages\\LogRecord_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages\\LogRecord_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3710,
+            "modifiedTime": 1562007620386,
+            "changeTime": 1562007620386,
+            "contentHash": "60c7cd259c4af055630cc73be27a87a59aa0b7b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561636181538,
+            "changeTime": 1561636181538,
+            "contentHash": "404882a4c65d4375a31588b0055abc16a8979891",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562879110389,
+            "changeTime": 1562879110389,
+            "contentHash": "ed55e7f81ed26239f7e2a4ec9012396795385895",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561645941241,
+            "changeTime": 1561645941241,
+            "contentHash": "cf4b6fb88b9fca75638083026fc6e9c767d7c815",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\__MACOSX",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\__MACOSX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561645942579,
+            "changeTime": 1561645942579,
+            "contentHash": "2fe93b662df5a6be4a6aa57db062db4520a0e4b9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561645185518,
+            "changeTime": 1561645185518,
+            "contentHash": "787019bada635af3d92e11e40e9f29948e69f65a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogStreamer",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogStreamer",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561645210132,
+            "changeTime": 1561645210132,
+            "contentHash": "525adb12a207fb1289a869433eda440b3cc150ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561645365222,
+            "changeTime": 1561645365222,
+            "contentHash": "37a975716562343c32afc27701cede75d772b94c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingEvent",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561645686286,
+            "changeTime": 1561645686286,
+            "contentHash": "2ca3cfdda018bdda44082a7a97171ce84709bcfb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd.resource-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd.resource-meta.xml",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1560956176199,
+            "changeTime": 1561645939559,
+            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\AckExtension.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\AckExtension.js",
+            "isDirectory": false,
+            "size": 4777,
+            "modifiedTime": 1560956176756,
+            "changeTime": 1561645939902,
+            "contentHash": "3f7ad53f25328d47deaa07b2419211125166f655",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\BinaryExtension.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\BinaryExtension.js",
+            "isDirectory": false,
+            "size": 2163,
+            "modifiedTime": 1560956176950,
+            "changeTime": 1561645940174,
+            "contentHash": "d355f87a97e311bef9b28ff319e41d368aae8146",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\cometd.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\cometd.js",
+            "isDirectory": false,
+            "size": 125858,
+            "modifiedTime": 1560956177168,
+            "changeTime": 1561645940422,
+            "contentHash": "e913d4e230919f88e214cf8c0ebcba1f1a92f7f9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\ReloadExtension.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\ReloadExtension.js",
+            "isDirectory": false,
+            "size": 9887,
+            "modifiedTime": 1560956177370,
+            "changeTime": 1561645940665,
+            "contentHash": "01e4da90186dde320aac4db7d1857fbee79abb12",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\TimeStampExtension.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\TimeStampExtension.js",
+            "isDirectory": false,
+            "size": 1233,
+            "modifiedTime": 1560956177565,
+            "changeTime": 1561645940908,
+            "contentHash": "09cc5d63aa9d381b0967bfc04542f2337dae94aa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\TimeSyncExtension.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cometd\\TimeSyncExtension.js",
+            "isDirectory": false,
+            "size": 7322,
+            "modifiedTime": 1560956177741,
+            "changeTime": 1561645941192,
+            "contentHash": "16d44978c79e1160c6781709cd2652112bb4f345",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo\\streamingDemo.cmp-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo\\streamingDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1560956184038,
+            "changeTime": 1561645184905,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo\\streamingDemo.cmp",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo\\streamingDemo.cmp",
+            "isDirectory": false,
+            "size": 325,
+            "modifiedTime": 1561748441822,
+            "changeTime": 1561748441822,
+            "contentHash": "34b4128655c431c7afca7d4646cb3df642ed4f97",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo\\streamingDemo.css",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo\\streamingDemo.css",
+            "isDirectory": false,
+            "size": 83,
+            "modifiedTime": 1560956184548,
+            "changeTime": 1561645185448,
+            "contentHash": "8558bc53d44402bbdf4440a6a5e8d85f361e3b7b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo\\streamingDemoController.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingDemo\\streamingDemoController.js",
+            "isDirectory": false,
+            "size": 585,
+            "modifiedTime": 1560956184750,
+            "changeTime": 1561645185707,
+            "contentHash": "b86f1ca4790477525363a0e98a27dbc01b25a834",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogStreamer\\LogStreamer.cmp-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogStreamer\\LogStreamer.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1562000369787,
+            "changeTime": 1562000369787,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogStreamer\\LogStreamer.cmp",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogStreamer\\LogStreamer.cmp",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1562768355777,
+            "changeTime": 1562768355777,
+            "contentHash": "78766675f4922d2bbf1233b7cdc2a937bbd8756d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogStreamer\\LogStreamerController.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\LogStreamer\\LogStreamerController.js",
+            "isDirectory": false,
+            "size": 505,
+            "modifiedTime": 1560956181167,
+            "changeTime": 1561645210390,
+            "contentHash": "26853287eca73de062cb5219e893c0da0997cbeb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streaming.cmp-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streaming.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1560956182655,
+            "changeTime": 1561645364357,
+            "contentHash": "921542d360856699a08d788b63a3a1ea04876d93",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streaming.cmp",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streaming.cmp",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1560956182935,
+            "changeTime": 1561645364629,
+            "contentHash": "141ff0d03b51222142b0951cd6e398442ea2e589",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streaming.css",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streaming.css",
+            "isDirectory": false,
+            "size": 35,
+            "modifiedTime": 1560956183262,
+            "changeTime": 1561645364882,
+            "contentHash": "c74a7d2299fa5ddee40c99c58f9b178d4dfbe856",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streamingController.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streamingController.js",
+            "isDirectory": false,
+            "size": 1514,
+            "modifiedTime": 1560956183496,
+            "changeTime": 1561645365164,
+            "contentHash": "483aabe82c2ac2da021fc67db21edabd33cdfa2a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streamingHelper.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streaming\\streamingHelper.js",
+            "isDirectory": false,
+            "size": 6,
+            "modifiedTime": 1560956183695,
+            "changeTime": 1561645365419,
+            "contentHash": "7002d3e8bc746f920e6d752c0380ac830f8ae436",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingEvent\\streamingEvent.evt-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingEvent\\streamingEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1560956185035,
+            "changeTime": 1561645686184,
+            "contentHash": "921542d360856699a08d788b63a3a1ea04876d93",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingEvent\\streamingEvent.evt",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\aura\\streamingEvent\\streamingEvent.evt",
+            "isDirectory": false,
+            "size": 96,
+            "modifiedTime": 1560956185259,
+            "changeTime": 1561645686645,
+            "contentHash": "48ef3b66fa5c5c7d021a232cc9eec3605105348e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\SessionController.cls-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\SessionController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1560956171093,
+            "changeTime": 1561645965162,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\SessionController.cls",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\SessionController.cls",
+            "isDirectory": false,
+            "size": 152,
+            "modifiedTime": 1560956171325,
+            "changeTime": 1561645965444,
+            "contentHash": "30a7645ddc0e6a8171c4f6a7392ce1bbc4200af2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 25563,
+            "modifiedTime": 1562793456141,
+            "changeTime": 1562793456141,
+            "contentHash": "73178c60ce359a5a3b8da281139fa4645eedd2cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562875933316,
+            "changeTime": 1562875933316,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Running_User__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogRecord__c\\fields\\Running_User__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1561750124322,
+            "changeTime": 1561750124322,
+            "contentHash": "90935dcb4cfa8c6b4060afb4c9ad40d297122c3f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Reason__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Reason__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1561750166335,
+            "changeTime": 1561750166335,
+            "contentHash": "145880c3b31c15f233f5e0ec67d54b2d69a82783",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Running_User__c.field-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\objects\\CF_LogEvent__e\\fields\\Running_User__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 468,
+            "modifiedTime": 1561743263036,
+            "changeTime": 1561743263036,
+            "contentHash": "b3eca0c0bb866df765e90f7841f9f39a158559f1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\testLogRecordViewer",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\testLogRecordViewer",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562000472520,
+            "changeTime": 1562000472520,
+            "contentHash": "8558c26591e0cbf0c6138a4196c086e30f1ebd66",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\testLogRecordViewer\\testLogRecordViewer.js-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\testLogRecordViewer\\testLogRecordViewer.js-meta.xml",
+            "isDirectory": false,
+            "size": 695,
+            "modifiedTime": 1562004397564,
+            "changeTime": 1562004397564,
+            "contentHash": "ec47afae2862c8cc64cbca4967a8efe2f94a2b98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\testLogRecordViewer\\testLogRecordViewer.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\testLogRecordViewer\\testLogRecordViewer.js",
+            "isDirectory": false,
+            "size": 133,
+            "modifiedTime": 1562000509573,
+            "changeTime": 1562000509573,
+            "contentHash": "6e1244e0b909c62af9445dfd3c195dad4652b8df",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\testLogRecordViewer\\testLogRecordViewer.html",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\testLogRecordViewer\\testLogRecordViewer.html",
+            "isDirectory": false,
+            "size": 197,
+            "modifiedTime": 1561992084887,
+            "changeTime": 1562000450948,
+            "contentHash": "43bd7e91abccdb238ffec9b9f5f794ad2678ba87",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\empAPIExample",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\empAPIExample",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562002409960,
+            "changeTime": 1562002409960,
+            "contentHash": "251dd2e070d7cb73046f90c3e245e764b60eaed3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\empAPIExample\\empAPIExample.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\empAPIExample\\empAPIExample.js",
+            "isDirectory": false,
+            "size": 2150,
+            "modifiedTime": 1562160179460,
+            "changeTime": 1562160179460,
+            "contentHash": "4c27d89cb9b74576edbbae0c74270a466bfd4acf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\empAPIExample\\empAPIExample.js-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\empAPIExample\\empAPIExample.js-meta.xml",
+            "isDirectory": false,
+            "size": 689,
+            "modifiedTime": 1562004382372,
+            "changeTime": 1562004382372,
+            "contentHash": "4ce9cf8e78ba44b6ad4d45f28c201c382a1fe1c9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\empAPIExample\\empAPIExample.html",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\empAPIExample\\empAPIExample.html",
+            "isDirectory": false,
+            "size": 856,
+            "modifiedTime": 1562002653452,
+            "changeTime": 1562002653452,
+            "contentHash": "a09795bacd0e301b03a9fb8a1319337f15e77b29",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\layouts\\CF_LogRecord__c-CF Log Record Layout.layout-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\layouts\\CF_LogRecord__c-CF Log Record Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2496,
+            "modifiedTime": 1562007619747,
+            "changeTime": 1562007619747,
+            "contentHash": "d54b4695547c9cae6848566daeaf76b6ae71ebbf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages\\Test_App_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages\\Test_App_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1046,
+            "modifiedTime": 1562007620024,
+            "changeTime": 1562007620024,
+            "contentHash": "e5bbf493be258b7fd82fa1e56ee022f3861d5ce2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\tabs\\Test_App_Page.tab-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\tabs\\Test_App_Page.tab-meta.xml",
+            "isDirectory": false,
+            "size": 283,
+            "modifiedTime": 1562007620681,
+            "changeTime": 1562007620681,
+            "contentHash": "0fc10a5d00047688e82487f467cc9719fd0263bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562007619575,
+            "changeTime": 1562007619575,
+            "contentHash": "8b228e9f13b950819970f7563f746e3af8ec2b36",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages\\CF_Logger_Home_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\flexipages\\CF_Logger_Home_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1603,
+            "modifiedTime": 1562793455826,
+            "changeTime": 1562793455826,
+            "contentHash": "eff6d6c5a1542d632a08bc8822f5ba4458a01b16",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logAppWelcome",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logAppWelcome",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562773900036,
+            "changeTime": 1562773900036,
+            "contentHash": "493848d0ddb05891afab934f6c133ba9e07c38b9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logAppWelcome\\logAppWelcome.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logAppWelcome\\logAppWelcome.js",
+            "isDirectory": false,
+            "size": 950,
+            "modifiedTime": 1563199940729,
+            "changeTime": 1563199940729,
+            "contentHash": "20b70fdae4cfe9444266b6565ce26a3980eb46ad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logAppWelcome\\logAppWelcome.js-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logAppWelcome\\logAppWelcome.js-meta.xml",
+            "isDirectory": false,
+            "size": 383,
+            "modifiedTime": 1562774087716,
+            "changeTime": 1562774087716,
+            "contentHash": "2aee544f92bf21578a983f113a77a44ee9c79565",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logAppWelcome\\logAppWelcome.html",
+        {
+            "state": "u",
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logAppWelcome\\logAppWelcome.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 695,
+            "modifiedTime": 1563202189969,
+            "changeTime": 1563202189969,
+            "contentHash": "d78b8297d3251aefadf808f1d32b1e3a06d125eb"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordList",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562788858491,
+            "changeTime": 1562788858491,
+            "contentHash": "ae2a5226cbf271716ce1eb707637eeb17dd2415c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordList\\logRecordList.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordList\\logRecordList.js",
+            "isDirectory": false,
+            "size": 1762,
+            "modifiedTime": 1562880675979,
+            "changeTime": 1562879308666,
+            "contentHash": "bedbac0b0de343736ee8d28c62b8dbaaf83acfa7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordList\\logRecordList.js-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordList\\logRecordList.js-meta.xml",
+            "isDirectory": false,
+            "size": 383,
+            "modifiedTime": 1562869754955,
+            "changeTime": 1562869754955,
+            "contentHash": "b4f25e7628497cd2b4a291dc40099af7cee6c137",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordList\\logRecordList.html",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordList\\logRecordList.html",
+            "isDirectory": false,
+            "size": 1628,
+            "modifiedTime": 1562941234078,
+            "changeTime": 1562941234078,
+            "contentHash": "6239b7c08991049131c241dc21aa919ad131b7a9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\CF_LogRecordController.cls",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\CF_LogRecordController.cls",
+            "isDirectory": false,
+            "size": 840,
+            "modifiedTime": 1562873405331,
+            "changeTime": 1562873405331,
+            "contentHash": "34e6ec64900a0d7c414ab7fd61f805fe9114c3bd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\CF_LogRecordController.cls-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\classes\\CF_LogRecordController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1562782436221,
+            "changeTime": 1562782436221,
+            "contentHash": "e88aabc845a56874a747bfb2c07db9356ab36c71",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562793079699,
+            "changeTime": 1562793079699,
+            "contentHash": "1f5c0f41cf410f25c5ba4df62cd986bd2db3e2d2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile\\logRecordTile.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile\\logRecordTile.js",
+            "isDirectory": false,
+            "size": 504,
+            "modifiedTime": 1562940748006,
+            "changeTime": 1562940748006,
+            "contentHash": "d2a34c0efc78a001ee148ed2fbc2186a11bd2e4e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile\\logRecordTile.js-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile\\logRecordTile.js-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1562879362254,
+            "changeTime": 1562879362254,
+            "contentHash": "4878d090f581be5609b881fc98e780576873d3bb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile\\logRecordTile.html",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile\\logRecordTile.html",
+            "isDirectory": false,
+            "size": 1103,
+            "modifiedTime": 1562875104277,
+            "changeTime": 1562875104277,
+            "contentHash": "51dbe2daee214fa2220ce004f95e3843cef86be0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile\\logRecordTile.css",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\logRecordTile\\logRecordTile.css",
+            "isDirectory": false,
+            "size": 38,
+            "modifiedTime": 1562877557177,
+            "changeTime": 1562877557177,
+            "contentHash": "2e780279981dc20a11ad06000acf351ae304086f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\pubsub",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\pubsub",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562869570259,
+            "changeTime": 1562869570259,
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+            "isDirectory": false,
+            "size": 3098,
+            "modifiedTime": 1562875193596,
+            "changeTime": 1562869701309,
+            "contentHash": "8986c52cfe15fc837dcbfa70962e67e5341bf510",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1562875619127,
+            "changeTime": 1562875619127,
+            "contentHash": "1061aef2761c09db5489ef2c8cf4a7e284627a5d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562784906521,
+            "changeTime": 1562879110389,
+            "contentHash": "fb7ea18056e3ed8fb9685bd6b42a0b2171f07298",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger\\img",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger\\img",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1562767739837,
+            "changeTime": 1562767739837,
+            "contentHash": "7cd3b456985a1395546914b71d65ed76641a9a30",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger\\style.css",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger\\style.css",
+            "isDirectory": false,
+            "size": 483,
+            "modifiedTime": 1562877538346,
+            "changeTime": 1562877538346,
+            "contentHash": "59c4706d30e6a3ff1fca8f083d6c51ae765c8e76",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger\\img\\standing-bear-silhouette.png",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger\\img\\standing-bear-silhouette.png",
+            "isDirectory": false,
+            "size": 31189,
+            "modifiedTime": 1562681729812,
+            "changeTime": 1562681729812,
+            "contentHash": "2343899f13a1850d5ff2136421425745cdafa3fe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger\\img\\Thumbs.db",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger\\img\\Thumbs.db",
+            "isDirectory": false,
+            "size": 15360,
+            "modifiedTime": 1562767756362,
+            "changeTime": 1562767756509,
+            "contentHash": "8de62f4b11624865cbd5d977dec422a6a8f54319",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger.resource-meta.xml",
+        {
+            "sourcePath": "H:\\myWork\\Workspace\\sfdx\\cf-commonLogFW\\force-app\\main\\default\\staticresources\\cf_logger.resource-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1562879084111,
+            "changeTime": 1562879084306,
+            "contentHash": "2151b1ae3c2d5df779dfc601a75fd4e5582a2547",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

@@ -1,0 +1,38 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/empAPIExample": [
+                "empAPIExample/empAPIExample.js"
+            ],
+            "c/logAppWelcome": [
+                "logAppWelcome/logAppWelcome.js"
+            ],
+            "c/logRecordList": [
+                "logRecordList/logRecordList.js"
+            ],
+            "c/logRecordTile": [
+                "logRecordTile/logRecordTile.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/testLogRecordViewer": [
+                "testLogRecordViewer/testLogRecordViewer.js"
+            ],
+            "c/cometd": [
+                "../staticresources/cometd/cometd.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
