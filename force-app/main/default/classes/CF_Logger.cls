@@ -178,7 +178,7 @@ public class CF_Logger
       }    
     
     /**
-     * Resets the log state
+     * Resets the log state ...
      **/
     private static void reset() {
         root = current = new LogScope();
